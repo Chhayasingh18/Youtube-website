@@ -25,23 +25,19 @@ A static YouTube homepage clone built using HTML and CSS. This project replicate
 
 ## 🎨 Project Structure  
 
-/Youtube-website
-│-- index.html        # Main HTML file
-│-- styles/
-│   ├── general.css   # Global styles
-│   ├── header.css    # Navigation bar styles
-│   ├── sidebar.css   # Sidebar menu styles
-│   ├── video.css     # Video section styles
-│-- images/           # Icons and thumbnails
-│-- README.md         # Project documentation
+/Youtube-website 
+│-- index.html # Main HTML file 
+│-- styles/ 
+│ ├── general.css # Global styles 
+│ ├── header.css # Navigation bar styles 
+│ ├── sidebar.css # Sidebar menu styles 
+│ ├── video.css # Video section styles 
+│-- images/ # Icons and thumbnails 
+│-- README.md # Project documentation
 
 
+🌟 Contributing
+This is a basic project for UI practice. If you want to add interactivity (like working search or video player), feel free to fork the repo and contribute!
 
----
-
-## 🚀 Getting Started  
-
-### Clone the repository  
-```bash
-git clone https://github.com/chhayasingh18/Youtube-website.git
-cd Youtube-website
+📄 License
+This project is for educational purposes and does not include YouTube’s full functionality.
